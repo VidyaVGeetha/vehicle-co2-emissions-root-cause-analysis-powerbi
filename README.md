@@ -63,7 +63,8 @@ This report analyzes vehicle data to identify the key factors influencing CO2 em
 
 ### 🔹 Engine Size vs CO2 Emissions
 
-![Scatter Plot](images/scatter-engine-co2.png)
+<img width="1230" height="682" alt="image" src="https://github.com/user-attachments/assets/47bb74ba-7f74-4a5e-8aad-00d85a2f4a2f" />
+
 **Insight:** CO2 emissions increase with engine size, with ICE vehicles dominating higher emission levels.
 
 ### 🔹 Decomposition Tree (Lowest Emissions Path)
