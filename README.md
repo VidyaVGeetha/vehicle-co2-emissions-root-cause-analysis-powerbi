@@ -47,7 +47,8 @@ This report analyzes vehicle data to identify the key factors influencing CO2 em
 
 ### 🔹 Overview Report Page
 
-![Overview](images/overview-dashboard.png)
+![Overview](<img width="1210" height="666" alt="image" src="https://github.com/user-attachments/assets/1d917b34-0b3d-4af8-a652-7312f96a9ce1" />
+)
 **Insight:** ICE vehicles significantly increase CO2 emissions.
 
 ### 🔹 Key Influencers Analysis
