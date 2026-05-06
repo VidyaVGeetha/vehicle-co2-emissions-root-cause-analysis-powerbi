@@ -57,6 +57,8 @@ This report analyzes vehicle data to identify the key factors influencing CO2 em
 
 ### 🔹 Top Segments
 
+<img width="1207" height="646" alt="image" src="https://github.com/user-attachments/assets/53816413-8f28-4361-a37e-65f29e40bf37" />
+
 **Insight:** Vehicles with engine size above ~2.5L form a high-emission segment.
 
 ### 🔹 Engine Size vs CO2 Emissions
