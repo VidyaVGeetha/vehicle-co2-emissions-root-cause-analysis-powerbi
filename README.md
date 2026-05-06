@@ -53,12 +53,10 @@ This report analyzes vehicle data to identify the key factors influencing CO2 em
 
 ### 🔹 Key Influencers Analysis
 
-![Key Influencers](images/key-influencers.png)
 **Insight:** Powertrain type and engine size are the strongest drivers.
 
 ### 🔹 Top Segments
 
-![Top Segments](images/top-segments.png)
 **Insight:** Vehicles with engine size above ~2.5L form a high-emission segment.
 
 ### 🔹 Engine Size vs CO2 Emissions
@@ -69,7 +67,8 @@ This report analyzes vehicle data to identify the key factors influencing CO2 em
 
 ### 🔹 Decomposition Tree (Lowest Emissions Path)
 
-![Decomposition Tree](images/decomposition-tree-lowest-co2.png)
+<img width="1219" height="705" alt="image" src="https://github.com/user-attachments/assets/4c25a329-e107-4717-b6f8-73268e292aa1" />
+
 **Insight:** Lowest emissions occur in HEV vehicles with small engine size and manual transmission.
 
 ---
